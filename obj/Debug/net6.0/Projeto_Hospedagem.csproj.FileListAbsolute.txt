@@ -1,0 +1,15 @@
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\bin\Debug\net6.0\Projeto_Hospedagem.exe
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\bin\Debug\net6.0\Projeto_Hospedagem.deps.json
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\bin\Debug\net6.0\Projeto_Hospedagem.runtimeconfig.json
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\bin\Debug\net6.0\Projeto_Hospedagem.dll
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\bin\Debug\net6.0\Projeto_Hospedagem.pdb
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.csproj.AssemblyReference.cache
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.AssemblyInfoInputs.cache
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.AssemblyInfo.cs
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.csproj.CoreCompileInputs.cache
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.dll
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\refint\Projeto_Hospedagem.dll
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.pdb
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\Projeto_Hospedagem.genruntimeconfig.cache
+D:\OneDrive - Fatec Centro Paula Souza\Desktop\Cursos\DIO\Bootcamp\Pottencial .NET Developer\Desafios\Projeto_Hospedagem\obj\Debug\net6.0\ref\Projeto_Hospedagem.dll
